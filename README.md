@@ -6,4 +6,4 @@ Using this app/code one can design their own diet plan. This project is designed
 The GUI is made using the Python library [kivyMD](https://kivymd.readthedocs.io/en/latest/).
 
 ## Support 
-The email which is located in [GitHub profile](https://github.com/GURI-VIRK).
+The email which is located in GitHub profile.
